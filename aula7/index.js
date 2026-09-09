@@ -1,7 +1,14 @@
-const nome = "João";
+const nome = "Luis";
+const sobrenome = "Felipe";
+const idade = 20;
+const peso = 80;
+const alturaEmCm = 1.68;
 
+console.log(nome + " " + sobrenome);
+console.log(idade, "anos");
+console.log(peso, "kg");
+console.log(alturaEmM, "m");
 
-console.log(nome);
 
 // String = Text | Number = Numero
 const primeroNumero = '5'; // 510 concatenar
